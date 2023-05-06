@@ -1,0 +1,16 @@
+{
+	"Welcome to the Store!": "दुकान में आपका स्वागत है!",
+	"Welcome to the official %server% Store. This is the place for you to enhance your player experience. We offer rank passes, items and boosters.": "आधिकारिक %server% स्टोर में आपका स्वागत है। यह आपके खिलाड़ी अनुभव को बढ़ाने के लिए एक स्थान है। हम रैंक पास, आइटम और बूस्टर प्रदान करते हैं।",
+	"Are you ready to be best?": "क्या आप बेस्ट बनने के लिए तैयार हैं?",
+	"Play Now": "अभी खेलें",
+	"Back to home!": "घर वापस जाएं!",
+	"Sign in to access your account.": "अपने खाते तक पहुँच पाने के लिए साइन इन करें।",
+	"Sign up to join our server.": "हमारे सर्वर में शामिल होने के लिए साइन अप करें।",
+	"Submit a reset request to access your account.": "अपने खाते तक पहुँच पाने के लिए रीसेट अनुरोध जमा करें।",
+	"Change your password to access your account.": "अपने खाते तक पहुँच पाने के लिए अपना पासवर्ड बदलें।",
+	"Play on %server%": "%server% पर खेलें",
+	"Server Address": "सर्वर पता",
+	"In Minecraft, go to <span>Multiplayer</span>, then <span>Add Server</span>": "माइंक्राफ्ट में, <span>मल्टीप्लेयर</span> पर जाएं, फिर <span>सर्वर जोड़ें</span> पर क्लिक करें",
+	"Enter <span>%ip%</span> into the server address box and click <span>Done</span>": "सर्वर पते के बॉक्स में <span>%ip%</span> डालें और <span>डन</span> पर क्लिक करें",
+	"Click to Join!": "शामिल हों!"
+}

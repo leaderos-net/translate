@@ -1,0 +1,16 @@
+{
+	"Welcome to the Store!": "¡Bienvenido a la Tienda!",
+	"Welcome to the official %server% Store. This is the place for you to enhance your player experience. We offer rank passes, items and boosters.": "Bienvenido a la Tienda oficial de %server%. Este es el lugar para que puedas mejorar tu experiencia de jugador. Ofrecemos pases de rango, artículos y potenciadores.",
+	"Are you ready to be best?": "¿Estás listo para ser el mejor?",
+	"Play Now": "Juega ahora",
+	"Back to home!": "¡Volver a casa!",
+	"Sign in to access your account.": "Inicia sesión para acceder a tu cuenta.",
+	"Sign up to join our server.": "Regístrate para unirte a nuestro servidor.",
+	"Submit a reset request to access your account.": "Envía una solicitud de restablecimiento para acceder a tu cuenta.",
+	"Change your password to access your account.": "Cambia tu contraseña para acceder a tu cuenta.",
+	"Play on %server%": "Juega en %server%",
+	"Server Address": "Dirección del servidor",
+	"In Minecraft, go to <span>Multiplayer</span>, then <span>Add Server</span>": "En Minecraft, ve a <span>Multijugador</span>, luego <span>Añadir servidor</span>",
+	"Enter <span>%ip%</span> into the server address box and click <span>Done</span>": "Introduce <span>%ip%</span> en el cuadro de la dirección del servidor y haz clic en <span>Hecho</span>",
+	"Click to Join!": "¡Haz clic para unirte!"
+}

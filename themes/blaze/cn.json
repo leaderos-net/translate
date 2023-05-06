@@ -1,0 +1,16 @@
+{
+	"Welcome to the Store!": "欢迎来到商店！",
+	"Welcome to the official %server% Store. This is the place for you to enhance your player experience. We offer rank passes, items and boosters.": "欢迎来到官方 %server% 商店。这里是您提升玩家体验的地方。我们提供等级通行证、物品和增益器。",
+	"Are you ready to be best?": "准备好成为最好的了吗？",
+	"Play Now": "立即游戏",
+	"Back to home!": "返回首页！",
+	"Sign in to access your account.": "登录以访问您的帐户。",
+	"Sign up to join our server.": "注册以加入我们的服务器。",
+	"Submit a reset request to access your account.": "提交重置请求以访问您的帐户。",
+	"Change your password to access your account.": "更改您的密码以访问您的帐户。",
+	"Play on %server%": "在 %server% 上游戏",
+	"Server Address": "服务器地址",
+	"In Minecraft, go to <span>Multiplayer</span>, then <span>Add Server</span>": "在 Minecraft 中，转到<span>多人游戏</span>，然后<span>添加服务器</span>",
+	"Enter <span>%ip%</span> into the server address box and click <span>Done</span>": "在服务器地址框中输入<span>%ip%</span>，然后单击<span>完成</span>",
+	"Click to Join!": "点击加入！"
+}

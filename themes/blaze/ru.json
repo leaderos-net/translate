@@ -1,0 +1,16 @@
+{
+	"Welcome to the Store!": "Добро пожаловать в Магазин!",
+	"Welcome to the official %server% Store. This is the place for you to enhance your player experience. We offer rank passes, items and boosters.": "Добро пожаловать в официальный магазин %server%. Здесь вы можете улучшить своё игровое времяпрепровождение. Мы предлагаем пассы рангов, предметы и бустеры.",
+	"Are you ready to be best?": "Вы готовы быть лучшим?",
+	"Play Now": "Играть сейчас",
+	"Back to home!": "Вернуться на главную!",
+	"Sign in to access your account.": "Войдите, чтобы получить доступ к своей учётной записи.",
+	"Sign up to join our server.": "Зарегистрируйтесь, чтобы присоединиться к нашему серверу.",
+	"Submit a reset request to access your account.": "Отправьте запрос на сброс пароля, чтобы получить доступ к своей учётной записи.",
+	"Change your password to access your account.": "Измените свой пароль, чтобы получить доступ к своей учётной записи.",
+	"Play on %server%": "Играть на %server%",
+	"Server Address": "Адрес сервера",
+	"In Minecraft, go to <span>Multiplayer</span>, then <span>Add Server</span>": "В Minecraft перейдите в <span>Мультиплеер</span>, затем <span>Добавить сервер</span>",
+	"Enter <span>%ip%</span> into the server address box and click <span>Done</span>": "Введите <span>%ip%</span> в поле адреса сервера и нажмите <span>Готово</span>",
+	"Click to Join!": "Нажмите, чтобы присоединиться!"
+}

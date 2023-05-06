@@ -1,0 +1,16 @@
+{
+	"Welcome to the Store!": "Üdvözöljük az áruházban!",
+	"Welcome to the official %server% Store. This is the place for you to enhance your player experience. We offer rank passes, items and boosters.": "Üdvözöljük az %server% hivatalos áruházában. Itt növelheti a játékélményét. Rankokat, tárgyakat és boostereket kínálunk.",
+	"Are you ready to be best?": "Készen állsz a legjobbra?",
+	"Play Now": "Játssz most",
+	"Back to home!": "Vissza a főoldalra!",
+	"Sign in to access your account.": "Jelentkezzen be, hogy hozzáférjen fiókjához.",
+	"Sign up to join our server.": "Regisztráljon, hogy csatlakozzon a szerverhez.",
+	"Submit a reset request to access your account.": "Küldjön egy visszaállítási kérelmet, hogy hozzáférjen fiókjához.",
+	"Change your password to access your account.": "Változtassa meg a jelszavát, hogy hozzáférjen fiókjához.",
+	"Play on %server%": "Játssz a %server% szerveren",
+	"Server Address": "Szerver címe",
+	"In Minecraft, go to <span>Multiplayer</span>, then <span>Add Server</span>": "Minecraftben, menj a <span>Többjátékos</span>, majd a <span>Szerver hozzáadása</span>",
+	"Enter <span>%ip%</span> into the server address box and click <span>Done</span>": "Adja meg a <span>%ip%</span> szerver címét a szerver cím mezőbe, majd kattintson a <span>Kész</span> gombra",
+	"Click to Join!": "Kattints a csatlakozáshoz!"
+}

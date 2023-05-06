@@ -1,0 +1,16 @@
+{
+	"Welcome to the Store!": "ストアへようこそ!",
+	"Welcome to the official %server% Store. This is the place for you to enhance your player experience. We offer rank passes, items and boosters.": "公式 %server% ストアへようこそ。ここではプレイヤーの体験をより良くするためのランクパス、アイテム、ブースターを提供しています。",
+	"Are you ready to be best?": "最高になる準備はできていますか？",
+	"Play Now": "今すぐプレイ",
+	"Back to home!": "ホームに戻る",
+	"Sign in to access your account.": "サインインしてアカウントにアクセス",
+	"Sign up to join our server.": "サインアップしてサーバーに参加",
+	"Submit a reset request to access your account.": "アカウントにアクセスするためにリセットリクエストを送信",
+	"Change your password to access your account.": "アカウントにアクセスするためにパスワードを変更",
+	"Play on %server%": "%server% でプレイ",
+	"Server Address": "サーバーアドレス",
+	"In Minecraft, go to <span>Multiplayer</span>, then <span>Add Server</span>": "Minecraftで<span>マルチプレイヤー</span>に移動し、<span>サーバーを追加</span>をクリック",
+	"Enter <span>%ip%</span> into the server address box and click <span>Done</span>": "<span>%ip%</span>をサーバーアドレスボックスに入力し、<span>完了</span>をクリック",
+	"Click to Join!": "クリックして参加"
+}

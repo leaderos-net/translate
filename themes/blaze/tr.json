@@ -1,0 +1,16 @@
+{
+	"Welcome to the Store!": "Mağaza'ya Hoş geldiniz!",
+	"Welcome to the official %server% Store. This is the place for you to enhance your player experience. We offer rank passes, items and boosters.": "Mağaza'ya hoş geldiniz. Bu mağazanızın oyuncularınızın deneyimini geliştirmenize olanak sağlayan ürünleri ve kazanımınızı kazanmanızı sağlayan ürünler sunuyoruz.",
+	"Are you ready to be best?": "En iyisi olmaya hazır mısınız?",
+	"Play Now": "Şimdi Oyna",
+	"Back to home!": "Ana sayfaya dön!",
+	"Sign in to access your account.": "Hesabınıza erişmek için giriş yapın.",
+	"Sign up to join our server.": "Sunucumuza katılmak için kayıt olun.",
+	"Submit a reset request to access your account.": "Hesabınıza erişmek için bir sıfırlama isteği gönderin.",
+	"Change your password to access your account.": "Hesabınıza erişmek için şifrenizi değiştirin.",
+	"Play on %server%": "%server% sunucusunda oyna",
+	"Server Address": "Sunucu Adresi",
+	"In Minecraft, go to <span>Multiplayer</span>, then <span>Add Server</span>": "Minecraft'ta <span>Çoklu Oyuncu</span> 'ya gidin, ardından <span>Sunucu Ekle</span> 'ye tıklayın",
+	"Enter <span>%ip%</span> into the server address box and click <span>Done</span>": "<span>%ip%</span> 'i sunucu adres kutusuna girin ve <span>Tamam</span> 'a tıklayın",
+	"Click to Join!": "Katılmak için tıklayın!"
+}

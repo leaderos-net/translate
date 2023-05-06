@@ -1,0 +1,16 @@
+{
+	"Welcome to the Store!": "Bine ați venit în magazin!",
+	"Welcome to the official %server% Store. This is the place for you to enhance your player experience. We offer rank passes, items and boosters.": "Bine ați venit în magazinul oficial %server%. Acesta este locul în care puteți îmbunătăți experiența de joc. Vă oferim tichete de rang, articole și boostere.",
+	"Are you ready to be best?": "Ești gata să fii cel mai bun?",
+	"Play Now": "Joacă acum",
+	"Back to home!": "Înapoi acasă!",
+	"Sign in to access your account.": "Conectați-vă pentru a vă accesa contul.",
+	"Sign up to join our server.": "Înregistrați-vă pentru a vă alătura serverului nostru.",
+	"Submit a reset request to access your account.": "Trimiteți o cerere de resetare pentru a vă accesa contul.",
+	"Change your password to access your account.": "Schimbați parola pentru a vă accesa contul.",
+	"Play on %server%": "Joacă pe %server%",
+	"Server Address": "Adresa serverului",
+	"In Minecraft, go to <span>Multiplayer</span>, then <span>Add Server</span>": "În Minecraft, mergeți la <span>Multiplayer</span>, apoi <span>Add Server</span>",
+	"Enter <span>%ip%</span> into the server address box and click <span>Done</span>": "Introduceți <span>%ip%</span> în caseta de adresa serverului și faceți clic pe <span>Done</span>",
+	"Click to Join!": "Faceți clic pentru a vă alătura!"
+}
