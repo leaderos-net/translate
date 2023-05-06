@@ -9,6 +9,8 @@ If you would like to contribute to the localization effort, please fork this rep
 
 Once you have made your changes, please submit a pull request to have your changes reviewed and merged into the main branch.
 
+**NOTE!** Please do not edit the keys. Only edit the values. For example, do not change `"key": "value"` to `"newkey": "value"`. Instead, change `"key": "value"` to `"key": "new value"`.
+
 ### File Structure
 | Directory | Description |
 |-----|--------|
