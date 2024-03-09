@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "欢迎使用安装向导！",
+    "description": "简单和高级设置。如果您遇到困难，请不要忘记查看安装文档。"
+  },
+  "steps": {
+    "1": {
+      "title": "兼容性",
+      "loading": "检查兼容性...",
+      "active": "激活",
+      "not_active": "未激活"
+    },
+    "2": {
+      "title": "数据库设置",
+      "database_connection_error": "数据库连接错误！请检查您的数据库设置。",
+      "inputs": {
+        "host": "主机",
+        "port": "端口",
+        "username": "用户名",
+        "password": "密码",
+        "database": "数据库名称"
+      }
+    },
+    "3": {
+      "title": "常规设置",
+      "inputs": {
+        "server_name": "服务器名称",
+        "website_title": "网站标题",
+        "server_ip": "服务器IP",
+        "server_version": "服务器版本",
+        "password_encryption": "密码加密",
+        "maintenance": "维护",
+        "currency": "货币",
+        "language": "语言",
+        "timezone": "时区"
+      }
+    },
+    "4": {
+      "title": "创建管理员",
+      "inputs": {
+        "email": "电子邮件",
+        "username": "用户名",
+        "password": "密码",
+        "confirm_password": "确认密码"
+      }
+    },
+    "5": {
+      "title": "完成",
+      "installing": {
+        "title": "安装中...",
+        "description": "请稍候，安装正在进行中..."
+      },
+      "finish": {
+        "title": "安装完成！",
+        "description": "安装成功完成。您随时可以更改设置。",
+        "button": "查看控制台"
+      },
+      "installing_error": {
+        "title": "安装错误！",
+        "description": "安装失败。请联系我们获取更多信息。"
+      }
+    }
+  },
+  "search": "搜索...",
+  "help": "需要帮助吗？",
+  "docs": "文档",
+  "prev": "上一步",
+  "next": "下一步",
+  "processing": "处理中...",
+  "fill_fields": "请填写所有字段。",
+  "password_mismatch": "密码不匹配。",
+  "password_bad": "您不能使用简单的密码！",
+  "invalid_email": "无效的电子邮件地址！",
+  "invalid_username": "无效的用户名！",
+  "username_length": "用户名必须为3-16个字符。",
+  "password_length": "密码必须至少为6个字符。",
+  "username_taken": "用户名已经被占用！",
+  "email_taken": "电子邮件已经被占用！",
+  "enable": "启用",
+  "disable": "禁用",
+  "select_timezone": "选择时区",
+  "select_language": "选择语言",
+  "select_currency": "选择货币"
+}

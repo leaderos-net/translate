@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Üdvözöljük a telepítési varázslóban!",
+    "description": "Egyszerű és haladó beállítások. Ha nehézségei adódnak, ne feledje, hogy az telepítési dokumentációt is elolvashatja."
+  },
+  "steps": {
+    "1": {
+      "title": "Kompatibilitás",
+      "loading": "Kompatibilitás ellenőrzése...",
+      "active": "aktív",
+      "not_active": "nem aktív"
+    },
+    "2": {
+      "title": "Adatbázis beállítások",
+      "database_connection_error": "Adatbázis kapcsolati hiba! Kérjük ellenőrizze az adatbázis beállításait.",
+      "inputs": {
+        "host": "Kiszolgáló",
+        "port": "Port",
+        "username": "Felhasználónév",
+        "password": "Jelszó",
+        "database": "Adatbázis név"
+      }
+    },
+    "3": {
+      "title": "Általános beállítások",
+      "inputs": {
+        "server_name": "Szerver név",
+        "website_title": "Weboldal címe",
+        "server_ip": "Szerver IP",
+        "server_version": "Szerver verzió",
+        "password_encryption": "Jelszó titkosítás",
+        "maintenance": "Karban tartás",
+        "currency": "Pénznem",
+        "language": "Nyelv",
+        "timezone": "Időzóna"
+      }
+    },
+    "4": {
+      "title": "Adminisztrátor létrehozása",
+      "inputs": {
+        "email": "E-mail",
+        "username": "Felhasználónév",
+        "password": "Jelszó",
+        "confirm_password": "Jelszó megerősítése"
+      }
+    },
+    "5": {
+      "title": "Befejezés",
+      "installing": {
+        "title": "Telepítés folyamatban...",
+        "description": "Kérjük várjon, a telepítés folyamatban van..."
+      },
+      "finish": {
+        "title": "Telepítés kész!",
+        "description": "A telepítés sikeresen befejeződött. Bármikor módosíthatja a beállításokat.",
+        "button": "Vezérlőpult megtekintése"
+      },
+      "installing_error": {
+        "title": "Telepítési hiba!",
+        "description": "A telepítés sikertelen. Kérjük, lépjen kapcsolatba velünk további információkért."
+      }
+    }
+  },
+  "search": "Keresés...",
+  "help": "Segítségre van szüksége?",
+  "docs": "Dokumentáció",
+  "prev": "Előző",
+  "next": "Következő",
+  "processing": "Feldolgozás...",
+  "fill_fields": "Kérjük töltse ki az összes mezőt!",
+  "password_mismatch": "A jelszavak nem egyeznek.",
+  "password_bad": "Nem használhat egyszerű jelszót!",
+  "invalid_email": "Érvénytelen e-mail cím!",
+  "invalid_username": "Érvénytelen felhasználónév!",
+  "username_length": "A felhasználónévnek 3-16 karakter hosszúnak kell lennie.",
+  "password_length": "A jelszónak legalább 6 karakter hosszúnak kell lennie.",
+  "username_taken": "A felhasználónév már foglalt!",
+  "email_taken": "Az e-mail cím már foglalt!",
+  "enable": "Engedélyezés",
+  "disable": "Letiltás",
+  "select_timezone": "Időzóna kiválasztása",
+  "select_language": "Nyelv kiválasztása",
+  "select_currency": "Pénznem kiválasztása"
+}

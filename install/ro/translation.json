@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Bun venit la ghidul de configurare!",
+    "description": "Configurare ușoară și avansată. Dacă întâmpinați probleme, nu uitați să consultați documentația de instalare."
+  },
+  "steps": {
+    "1": {
+      "title": "Compatibilitate",
+      "loading": "Se verifică compatibilitatea...",
+      "active": "activ",
+      "not_active": "inactiv"
+    },
+    "2": {
+      "title": "Setări baze de date",
+      "database_connection_error": "Eroare de conectare la baza de date! Vă rugăm să verificați setările bazei de date.",
+      "inputs": {
+        "host": "Gazdă",
+        "port": "Port",
+        "username": "Nume de utilizator",
+        "password": "Parolă",
+        "database": "Numele bazei de date"
+      }
+    },
+    "3": {
+      "title": "Setări generale",
+      "inputs": {
+        "server_name": "Numele serverului",
+        "website_title": "Titlul site-ului",
+        "server_ip": "Adresa IP a serverului",
+        "server_version": "Versiunea serverului",
+        "password_encryption": "Criptarea parolelor",
+        "maintenance": "Mentenanță",
+        "currency": "Monedă",
+        "language": "Limba",
+        "timezone": "Fus orar"
+      }
+    },
+    "4": {
+      "title": "Creare cont de administrator",
+      "inputs": {
+        "email": "E-mail",
+        "username": "Nume de utilizator",
+        "password": "Parolă",
+        "confirm_password": "Confirmați parola"
+      }
+    },
+    "5": {
+      "title": "Finalizare",
+      "installing": {
+        "title": "Se instalează...",
+        "description": "Vă rugăm să așteptați, instalarea este în curs de desfășurare..."
+      },
+      "finish": {
+        "title": "Instalarea s-a finalizat!",
+        "description": "Instalarea s-a finalizat cu succes. Puteți schimba setările oricând.",
+        "button": "Vizualizare panou de control"
+      },
+      "installing_error": {
+        "title": "Eroare de instalare!",
+        "description": "Instalarea a eșuat. Vă rugăm să ne contactați pentru mai multe informații."
+      }
+    }
+  },
+  "search": "Căutare...",
+  "help": "Aveți nevoie de ajutor?",
+  "docs": "Documentație",
+  "prev": "Anterior",
+  "next": "Următor",
+  "processing": "Procesare...",
+  "fill_fields": "Vă rugăm să completați toate câmpurile.",
+  "password_mismatch": "Parolele nu corespund.",
+  "password_bad": "Nu puteți utiliza parole simple!",
+  "invalid_email": "Adresa de e-mail invalidă!",
+  "invalid_username": "Nume de utilizator invalid!",
+  "username_length": "Numele de utilizator trebuie să aibă între 3 și 16 caractere.",
+  "password_length": "Parola trebuie să aibă cel puțin 6 caractere.",
+  "username_taken": "Numele de utilizator este deja folosit!",
+  "email_taken": "Adresa de e-mail este deja folosită!",
+  "enable": "Activare",
+  "disable": "Dezactivare",
+  "select_timezone": "Selectați fusul orar",
+  "select_language": "Selectați limba",
+  "select_currency": "Selectați moneda"
+}

@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Bienvenue dans l'assistant de configuration !",
+    "description": "Configuration facile et avancée. Si vous rencontrez des difficultés, n'oubliez pas de consulter la documentation d'installation."
+  },
+  "steps": {
+    "1": {
+      "title": "Compatibilité",
+      "loading": "Vérification de la compatibilité en cours...",
+      "active": "actif",
+      "not_active": "non actif"
+    },
+    "2": {
+      "title": "Paramètres de base de données",
+      "database_connection_error": "Erreur de connexion à la base de données ! Veuillez vérifier vos paramètres de base de données.",
+      "inputs": {
+        "host": "Hôte",
+        "port": "Port",
+        "username": "Nom d'utilisateur",
+        "password": "Mot de passe",
+        "database": "Nom de la base de données"
+      }
+    },
+    "3": {
+      "title": "Paramètres généraux",
+      "inputs": {
+        "server_name": "Nom du serveur",
+        "website_title": "Titre du site web",
+        "server_ip": "Adresse IP du serveur",
+        "server_version": "Version du serveur",
+        "password_encryption": "Cryptage des mots de passe",
+        "maintenance": "Maintenance",
+        "currency": "Devise",
+        "language": "Langue",
+        "timezone": "Fuseau horaire"
+      }
+    },
+    "4": {
+      "title": "Créer un administrateur",
+      "inputs": {
+        "email": "E-mail",
+        "username": "Nom d'utilisateur",
+        "password": "Mot de passe",
+        "confirm_password": "Confirmer le mot de passe"
+      }
+    },
+    "5": {
+      "title": "Terminer",
+      "installing": {
+        "title": "Installation en cours...",
+        "description": "Veuillez patienter, l'installation est en cours..."
+      },
+      "finish": {
+        "title": "Installation terminée !",
+        "description": "Installation terminée avec succès. Vous pouvez modifier les paramètres à tout moment.",
+        "button": "Afficher le tableau de bord"
+      },
+      "installing_error": {
+        "title": "Erreur d'installation !",
+        "description": "L'installation a échoué. Veuillez nous contacter pour plus d'informations."
+      }
+    }
+  },
+  "search": "Recherche...",
+  "help": "Besoin d'aide ?",
+  "docs": "Documentation",
+  "prev": "Précédent",
+  "next": "Suivant",
+  "processing": "Traitement en cours...",
+  "fill_fields": "Veuillez remplir tous les champs.",
+  "password_mismatch": "Les mots de passe ne correspondent pas.",
+  "password_bad": "Vous ne pouvez pas utiliser des mots de passe simples !",
+  "invalid_email": "Adresse e-mail invalide !",
+  "invalid_username": "Nom d'utilisateur invalide !",
+  "username_length": "Le nom d'utilisateur doit comporter entre 3 et 16 caractères.",
+  "password_length": "Le mot de passe doit comporter au moins 6 caractères.",
+  "username_taken": "Le nom d'utilisateur est déjà pris !",
+  "email_taken": "L'e-mail est déjà utilisé !",
+  "enable": "Activer",
+  "disable": "Désactiver",
+  "select_timezone": "Sélectionner le fuseau horaire",
+  "select_language": "Sélectionner la langue",
+  "select_currency": "Sélectionner la devise"
+}

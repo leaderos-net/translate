@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Chào mừng đến với trình hướng dẫn cài đặt!",
+    "description": "Cài đặt dễ dàng và nâng cao. Nếu bạn gặp khó khăn, đừng quên xem tài liệu cài đặt."
+  },
+  "steps": {
+    "1": {
+      "title": "Tương thích",
+      "loading": "Đang kiểm tra tính tương thích...",
+      "active": "kích hoạt",
+      "not_active": "không kích hoạt"
+    },
+    "2": {
+      "title": "Thiết lập cơ sở dữ liệu",
+      "database_connection_error": "Lỗi kết nối cơ sở dữ liệu! Vui lòng kiểm tra các thiết lập cơ sở dữ liệu của bạn.",
+      "inputs": {
+        "host": "Máy chủ",
+        "port": "Cổng",
+        "username": "Tên người dùng",
+        "password": "Mật khẩu",
+        "database": "Tên cơ sở dữ liệu"
+      }
+    },
+    "3": {
+      "title": "Thiết lập chung",
+      "inputs": {
+        "server_name": "Tên máy chủ",
+        "website_title": "Tiêu đề trang web",
+        "server_ip": "Địa chỉ IP của máy chủ",
+        "server_version": "Phiên bản máy chủ",
+        "password_encryption": "Mã hóa mật khẩu",
+        "maintenance": "Bảo trì",
+        "currency": "Tiền tệ",
+        "language": "Ngôn ngữ",
+        "timezone": "Múi giờ"
+      }
+    },
+    "4": {
+      "title": "Tạo tài khoản quản trị viên",
+      "inputs": {
+        "email": "Email",
+        "username": "Tên người dùng",
+        "password": "Mật khẩu",
+        "confirm_password": "Xác nhận mật khẩu"
+      }
+    },
+    "5": {
+      "title": "Hoàn tất",
+      "installing": {
+        "title": "Đang cài đặt...",
+        "description": "Vui lòng đợi, quá trình cài đặt đang được thực hiện..."
+      },
+      "finish": {
+        "title": "Cài đặt hoàn tất!",
+        "description": "Cài đặt hoàn tất thành công. Bạn có thể thay đổi cài đặt bất kỳ lúc nào.",
+        "button": "Xem bảng điều khiển"
+      },
+      "installing_error": {
+        "title": "Lỗi cài đặt!",
+        "description": "Cài đặt không thành công. Vui lòng liên hệ với chúng tôi để biết thêm thông tin."
+      }
+    }
+  },
+  "search": "Tìm kiếm...",
+  "help": "Bạn cần trợ giúp?",
+  "docs": "Tài liệu",
+  "prev": "Trước đó",
+  "next": "Tiếp theo",
+  "processing": "Đang xử lý...",
+  "fill_fields": "Vui lòng điền đầy đủ thông tin vào các trường.",
+  "password_mismatch": "Mật khẩu không khớp.",
+  "password_bad": "Bạn không thể sử dụng mật khẩu đơn giản!",
+  "invalid_email": "Địa chỉ email không hợp lệ!",
+  "invalid_username": "Tên người dùng không hợp lệ!",
+  "username_length": "Tên người dùng phải có từ 3 đến 16 ký tự.",
+  "password_length": "Mật khẩu phải có ít nhất 6 ký tự.",
+  "username_taken": "Tên người dùng đã được sử dụng!",
+  "email_taken": "Email đã được sử dụng!",
+  "enable": "Bật",
+  "disable": "Tắt",
+  "select_timezone": "Chọn múi giờ",
+  "select_language": "Chọn ngôn ngữ",
+  "select_currency": "Chọn tiền tệ"
+}

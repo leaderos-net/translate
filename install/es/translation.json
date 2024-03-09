@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "¡Bienvenido al asistente de configuración!",
+    "description": "Configuración fácil y avanzada. Si tiene dificultades, no olvide consultar la documentación de instalación."
+  },
+  "steps": {
+    "1": {
+      "title": "Compatibilidad",
+      "loading": "Comprobando compatibilidad...",
+      "active": "activo",
+      "not_active": "no activo"
+    },
+    "2": {
+      "title": "Configuración de base de datos",
+      "database_connection_error": "¡Error de conexión a la base de datos! Por favor, revise la configuración de su base de datos.",
+      "inputs": {
+        "host": "Host",
+        "port": "Puerto",
+        "username": "Nombre de usuario",
+        "password": "Contraseña",
+        "database": "Nombre de la base de datos"
+      }
+    },
+    "3": {
+      "title": "Configuración general",
+      "inputs": {
+        "server_name": "Nombre del servidor",
+        "website_title": "Título del sitio web",
+        "server_ip": "IP del servidor",
+        "server_version": "Versión del servidor",
+        "password_encryption": "Cifrado de contraseña",
+        "maintenance": "Mantenimiento",
+        "currency": "Moneda",
+        "language": "Idioma",
+        "timezone": "Zona horaria"
+      }
+    },
+    "4": {
+      "title": "Crear administrador",
+      "inputs": {
+        "email": "Correo electrónico",
+        "username": "Nombre de usuario",
+        "password": "Contraseña",
+        "confirm_password": "Confirmar contraseña"
+      }
+    },
+    "5": {
+      "title": "Terminar",
+      "installing": {
+        "title": "Instalando...",
+        "description": "Por favor, espere, la instalación está en progreso..."
+      },
+      "finish": {
+        "title": "¡La instalación ha finalizado!",
+        "description": "La instalación se completó con éxito. Puede cambiar la configuración en cualquier momento.",
+        "button": "Ver el panel de control"
+      },
+      "installing_error": {
+        "title": "¡Error de instalación!",
+        "description": "La instalación falló. Por favor, contáctenos para obtener más información."
+      }
+    }
+  },
+  "search": "Buscar...",
+  "help": "¿Necesita ayuda?",
+  "docs": "Documentación",
+  "prev": "Anterior",
+  "next": "Siguiente",
+  "processing": "Procesando...",
+  "fill_fields": "Por favor, complete todos los campos.",
+  "password_mismatch": "Las contraseñas no coinciden.",
+  "password_bad": "¡No puede usar contraseñas simples!",
+  "invalid_email": "¡Dirección de correo electrónico no válida!",
+  "invalid_username": "¡Nombre de usuario no válido!",
+  "username_length": "El nombre de usuario debe tener entre 3 y 16 caracteres.",
+  "password_length": "La contraseña debe tener al menos 6 caracteres.",
+  "username_taken": "¡El nombre de usuario ya está en uso!",
+  "email_taken": "¡El correo electrónico ya está en uso!",
+  "enable": "Activar",
+  "disable": "Desactivar",
+  "select_timezone": "Seleccionar zona horaria",
+  "select_language": "Seleccionar idioma",
+  "select_currency": "Seleccionar moneda"
+}

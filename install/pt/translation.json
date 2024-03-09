@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Bem-vindo ao assistente de configuração!",
+    "description": "Configuração fácil e avançada. Se você tiver dificuldades, não se esqueça de consultar a documentação de instalação."
+  },
+  "steps": {
+    "1": {
+      "title": "Compatibilidade",
+      "loading": "Verificando compatibilidade...",
+      "active": "ativo",
+      "not_active": "inativo"
+    },
+    "2": {
+      "title": "Configurações de banco de dados",
+      "database_connection_error": "Erro de conexão com o banco de dados! Por favor, verifique suas configurações de banco de dados.",
+      "inputs": {
+        "host": "Host",
+        "port": "Porta",
+        "username": "Nome de usuário",
+        "password": "Senha",
+        "database": "Nome do banco de dados"
+      }
+    },
+    "3": {
+      "title": "Configurações gerais",
+      "inputs": {
+        "server_name": "Nome do servidor",
+        "website_title": "Título do site",
+        "server_ip": "Endereço IP do servidor",
+        "server_version": "Versão do servidor",
+        "password_encryption": "Criptografia de senha",
+        "maintenance": "Manutenção",
+        "currency": "Moeda",
+        "language": "Idioma",
+        "timezone": "Fuso horário"
+      }
+    },
+    "4": {
+      "title": "Criar conta de administrador",
+      "inputs": {
+        "email": "E-mail",
+        "username": "Nome de usuário",
+        "password": "Senha",
+        "confirm_password": "Confirmar senha"
+      }
+    },
+    "5": {
+      "title": "Concluir",
+      "installing": {
+        "title": "Instalando...",
+        "description": "Por favor, aguarde, a instalação está em andamento..."
+      },
+      "finish": {
+        "title": "Instalação concluída!",
+        "description": "Instalação concluída com sucesso. Você pode alterar as configurações a qualquer momento.",
+        "button": "Ver painel de controle"
+      },
+      "installing_error": {
+        "title": "Erro de instalação!",
+        "description": "A instalação falhou. Por favor, entre em contato conosco para obter mais informações."
+      }
+    }
+  },
+  "search": "Pesquisar...",
+  "help": "Precisa de ajuda?",
+  "docs": "Documentação",
+  "prev": "Anterior",
+  "next": "Próximo",
+  "processing": "Processando...",
+  "fill_fields": "Por favor, preencha todos os campos.",
+  "password_mismatch": "As senhas não coincidem.",
+  "password_bad": "Você não pode usar senhas simples!",
+  "invalid_email": "Endereço de e-mail inválido!",
+  "invalid_username": "Nome de usuário inválido!",
+  "username_length": "O nome de usuário deve ter entre 3 e 16 caracteres.",
+  "password_length": "A senha deve ter pelo menos 6 caracteres.",
+  "username_taken": "Nome de usuário já está em uso!",
+  "email_taken": "E-mail já está em uso!",
+  "enable": "Habilitar",
+  "disable": "Desabilitar",
+  "select_timezone": "Selecione o fuso horário",
+  "select_language": "Selecione o idioma",
+  "select_currency": "Selecione a moeda"
+}

@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Välkommen till installationsguiden!",
+    "description": "Enkel och avancerad installation. Om du har problem, glöm inte att titta i installationsdokumentationen."
+  },
+  "steps": {
+    "1": {
+      "title": "Kompatibilitet",
+      "loading": "Kontrollerar kompatibilitet...",
+      "active": "aktiv",
+      "not_active": "inte aktiv"
+    },
+    "2": {
+      "title": "Databasinställningar",
+      "database_connection_error": "Databasanslutningsfel! Vänligen kontrollera dina databasinställningar.",
+      "inputs": {
+        "host": "Värd",
+        "port": "Port",
+        "username": "Användarnamn",
+        "password": "Lösenord",
+        "database": "Databasnamn"
+      }
+    },
+    "3": {
+      "title": "Allmänna inställningar",
+      "inputs": {
+        "server_name": "Servernamn",
+        "website_title": "Webbplatsens titel",
+        "server_ip": "Server IP",
+        "server_version": "Serverversion",
+        "password_encryption": "Lösenordskryptering",
+        "maintenance": "Underhåll",
+        "currency": "Valuta",
+        "language": "Språk",
+        "timezone": "Tidszon"
+      }
+    },
+    "4": {
+      "title": "Skapa administratörskonto",
+      "inputs": {
+        "email": "E-post",
+        "username": "Användarnamn",
+        "password": "Lösenord",
+        "confirm_password": "Bekräfta lösenord"
+      }
+    },
+    "5": {
+      "title": "Slutföra",
+      "installing": {
+        "title": "Installerar...",
+        "description": "Vänligen vänta, installationen pågår..."
+      },
+      "finish": {
+        "title": "Installationen är klar!",
+        "description": "Installationen har slutförts utan problem. Du kan ändra inställningarna när som helst.",
+        "button": "Visa instrumentpanel"
+      },
+      "installing_error": {
+        "title": "Installationsfel!",
+        "description": "Installationen misslyckades. Vänligen kontakta oss för mer information."
+      }
+    }
+  },
+  "search": "Sök...",
+  "help": "Behöver du hjälp?",
+  "docs": "Dokumentation",
+  "prev": "Föregående",
+  "next": "Nästa",
+  "processing": "Bearbetar...",
+  "fill_fields": "Fyll i alla fält.",
+  "password_mismatch": "Lösenorden matchar inte.",
+  "password_bad": "Du kan inte använda enkla lösenord!",
+  "invalid_email": "Ogiltig e-postadress!",
+  "invalid_username": "Ogiltigt användarnamn!",
+  "username_length": "Användarnamnet måste vara mellan 3 och 16 tecken långt.",
+  "password_length": "Lösenordet måste vara minst 6 tecken långt.",
+  "username_taken": "Användarnamn är redan upptaget!",
+  "email_taken": "E-postadressen är redan upptagen!",
+  "enable": "Aktivera",
+  "disable": "Inaktivera",
+  "select_timezone": "Välj tidszon",
+  "select_language": "Välj språk",
+  "select_currency": "Välj valuta"
+}

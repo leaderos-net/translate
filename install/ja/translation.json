@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "セットアップウィザードへようこそ！",
+    "description": "簡単で高度なセットアップ。問題がある場合は、インストールドキュメントを確認することをお忘れなく。"
+  },
+  "steps": {
+    "1": {
+      "title": "互換性",
+      "loading": "互換性の確認中...",
+      "active": "アクティブ",
+      "not_active": "非アクティブ"
+    },
+    "2": {
+      "title": "データベース設定",
+      "database_connection_error": "データベース接続エラー！データベース設定を確認してください。",
+      "inputs": {
+        "host": "ホスト",
+        "port": "ポート",
+        "username": "ユーザー名",
+        "password": "パスワード",
+        "database": "データベース名"
+      }
+    },
+    "3": {
+      "title": "一般設定",
+      "inputs": {
+        "server_name": "サーバー名",
+        "website_title": "ウェブサイトのタイトル",
+        "server_ip": "サーバーIP",
+        "server_version": "サーバーバージョン",
+        "password_encryption": "パスワードの暗号化",
+        "maintenance": "メンテナンス",
+        "currency": "通貨",
+        "language": "言語",
+        "timezone": "タイムゾーン"
+      }
+    },
+    "4": {
+      "title": "管理者作成",
+      "inputs": {
+        "email": "メールアドレス",
+        "username": "ユーザー名",
+        "password": "パスワード",
+        "confirm_password": "パスワードの確認"
+      }
+    },
+    "5": {
+      "title": "完了",
+      "installing": {
+        "title": "インストール中...",
+        "description": "しばらくお待ちください、インストールが進行中です..."
+      },
+      "finish": {
+        "title": "インストールが完了しました！",
+        "description": "インストールが正常に完了しました。いつでも設定を変更できます。",
+        "button": "ダッシュボードを見る"
+      },
+      "installing_error": {
+        "title": "インストールエラー！",
+        "description": "インストールに失敗しました。詳細についてはお問い合わせください。"
+      }
+    }
+  },
+  "search": "検索...",
+  "help": "ヘルプが必要ですか？",
+  "docs": "ドキュメント",
+  "prev": "前へ",
+  "next": "次へ",
+  "processing": "処理中...",
+  "fill_fields": "すべてのフィールドを入力してください。",
+  "password_mismatch": "パスワードが一致しません。",
+  "password_bad": "パスワードが弱すぎます。",
+  "invalid_email": "無効なメールアドレス。",
+  "invalid_username": "無効なユーザー名。",
+  "username_length": "ユーザー名は6文字以上でなければなりません。",
+  "password_length": "パスワードは6文字以上でなければなりません。",
+  "username_taken": "ユーザー名は既に使用されています！",
+  "email_taken": "メールアドレスは既に使用されています！",
+  "enable": "有効にする",
+  "disable": "無効にする",
+  "select_timezone": "タイムゾーンを選択",
+  "select_language": "言語を選択",
+  "select_currency": "通貨を選択"
+}

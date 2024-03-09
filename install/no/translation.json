@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Velkommen til installasjonsveiviseren!",
+    "description": "Enkel og avansert installasjon. Hvis du har problemer, ikke glem å se på installasjonsdokumentasjonen."
+  },
+  "steps": {
+    "1": {
+      "title": "Kompatibilitet",
+      "loading": "Sjekker for kompatibilitet...",
+      "active": "aktiv",
+      "not_active": "ikke aktiv"
+    },
+    "2": {
+      "title": "Databaseinnstillinger",
+      "database_connection_error": "Databaseforbindelsesfeil! Vennligst sjekk dine databaseinnstillinger.",
+      "inputs": {
+        "host": "Vert",
+        "port": "Port",
+        "username": "Brukernavn",
+        "password": "Passord",
+        "database": "Database navn"
+      }
+    },
+    "3": {
+      "title": "Generelle innstillinger",
+      "inputs": {
+        "server_name": "Servernavn",
+        "website_title": "Nettstedstittel",
+        "server_ip": "Server IP",
+        "server_version": "Serverversjon",
+        "password_encryption": "Passordkryptering",
+        "maintenance": "Vedlikehold",
+        "currency": "Valuta",
+        "language": "Språk",
+        "timezone": "Tidssone"
+      }
+    },
+    "4": {
+      "title": "Opprett administrator",
+      "inputs": {
+        "email": "E-post",
+        "username": "Brukernavn",
+        "password": "Passord",
+        "confirm_password": "Bekreft passord"
+      }
+    },
+    "5": {
+      "title": "Fullført",
+      "installing": {
+        "title": "Installerer...",
+        "description": "Vennligst vent, installasjonen pågår..."
+      },
+      "finish": {
+        "title": "Installasjon fullført!",
+        "description": "Installasjonen ble fullført vellykket. Du kan endre innstillingene når som helst.",
+        "button": "Se oversikt"
+      },
+      "installing_error": {
+        "title": "Installasjonsfeil!",
+        "description": "Installasjonen mislyktes. Vennligst kontakt oss for mer informasjon."
+      }
+    }
+  },
+  "search": "Søk...",
+  "help": "Trenger du hjelp?",
+  "docs": "Dokumentasjon",
+  "prev": "Forrige",
+  "next": "Neste",
+  "processing": "Behandler...",
+  "fill_fields": "Vennligst fyll ut alle feltene.",
+  "password_mismatch": "Passordene stemmer ikke overens.",
+  "password_bad": "Du kan ikke bruke enkle passord!",
+  "invalid_email": "Ugyldig e-postadresse!",
+  "invalid_username": "Ugyldig brukernavn!",
+  "username_length": "Brukernavnet må være mellom 3 og 16 tegn langt.",
+  "password_length": "Passordet må være minst 6 tegn langt.",
+  "username_taken": "Brukernavnet er allerede i bruk!",
+  "email_taken": "E-postadressen er allerede i bruk!",
+  "enable": "Aktiver",
+  "disable": "Deaktiver",
+  "select_timezone": "Velg tidssone",
+  "select_language": "Velg språk",
+  "select_currency": "Velg valuta"
+}

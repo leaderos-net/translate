@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Vítejte v průvodci nastavením!",
+    "description": "Snadná a pokročilá nastavení. Pokud máte potíže, nezapomeňte se podívat do dokumentace k instalaci."
+  },
+  "steps": {
+    "1": {
+      "title": "Kompatibilita",
+      "loading": "Kontrola kompatibility...",
+      "active": "aktivní",
+      "not_active": "neaktivní"
+    },
+    "2": {
+      "title": "Nastavení databáze",
+      "database_connection_error": "Chyba připojení k databázi! Zkontrolujte svá nastavení databáze.",
+      "inputs": {
+        "host": "Hostitel",
+        "port": "Port",
+        "username": "Uživatelské jméno",
+        "password": "Heslo",
+        "database": "Název databáze"
+      }
+    },
+    "3": {
+      "title": "Obecná nastavení",
+      "inputs": {
+        "server_name": "Název serveru",
+        "website_title": "Název webové stránky",
+        "server_ip": "IP adresa serveru",
+        "server_version": "Verze serveru",
+        "password_encryption": "Šifrování hesla",
+        "maintenance": "Údržba",
+        "currency": "Měna",
+        "language": "Jazyk",
+        "timezone": "Časové pásmo"
+      }
+    },
+    "4": {
+      "title": "Vytvořit správce",
+      "inputs": {
+        "email": "E-mail",
+        "username": "Uživatelské jméno",
+        "password": "Heslo",
+        "confirm_password": "Potvrďte heslo"
+      }
+    },
+    "5": {
+      "title": "Dokončeno",
+      "installing": {
+        "title": "Instalace...",
+        "description": "Prosím, čekejte, instalace probíhá..."
+      },
+      "finish": {
+        "title": "Instalace dokončena!",
+        "description": "Instalace byla úspěšně dokončena. Nastavení můžete kdykoli změnit.",
+        "button": "Zobrazit ovládací panel"
+      },
+      "installing_error": {
+        "title": "Chyba instalace!",
+        "description": "Instalace se nezdařila. Pro více informací nás kontaktujte."
+      }
+    }
+  },
+  "search": "Hledat...",
+  "help": "Potřebujete pomoc?",
+  "docs": "Dokumentace",
+  "prev": "Předchozí",
+  "next": "Další",
+  "processing": "Zpracovávání...",
+  "fill_fields": "Prosím, vyplňte všechna pole.",
+  "password_mismatch": "Hesla se neshodují.",
+  "password_bad": "Nemůžete použít jednoduchá hesla!",
+  "invalid_email": "Neplatná e-mailová adresa!",
+  "invalid_username": "Neplatné uživatelské jméno!",
+  "username_length": "Uživatelské jméno musí mít 3-16 znaků.",
+  "password_length": "Heslo musí mít alespoň 6 znaků.",
+  "username_taken": "Uživatelské jméno je již obsazeno!",
+  "email_taken": "E-mail je již používán!",
+  "enable": "Povolit",
+  "disable": "Zakázat",
+  "select_timezone": "Vyberte časové pásmo",
+  "select_language": "Vyberte jazyk",
+  "select_currency": "Vyberte měnu"
+}

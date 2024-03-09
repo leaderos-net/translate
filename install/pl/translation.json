@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Witaj w kreatorze konfiguracji!",
+    "description": "Prosta i zaawansowana konfiguracja. Jeśli napotkasz problemy, nie zapomnij zajrzeć do dokumentacji instalacyjnej."
+  },
+  "steps": {
+    "1": {
+      "title": "Kompatybilność",
+      "loading": "Sprawdzanie kompatybilności...",
+      "active": "aktywny",
+      "not_active": "nieaktywny"
+    },
+    "2": {
+      "title": "Ustawienia bazy danych",
+      "database_connection_error": "Błąd połączenia z bazą danych! Proszę sprawdź ustawienia bazy danych.",
+      "inputs": {
+        "host": "Host",
+        "port": "Port",
+        "username": "Nazwa użytkownika",
+        "password": "Hasło",
+        "database": "Nazwa bazy danych"
+      }
+    },
+    "3": {
+      "title": "Ogólne ustawienia",
+      "inputs": {
+        "server_name": "Nazwa serwera",
+        "website_title": "Tytuł strony internetowej",
+        "server_ip": "Adres IP serwera",
+        "server_version": "Wersja serwera",
+        "password_encryption": "Szyfrowanie hasła",
+        "maintenance": "Tryb konserwacji",
+        "currency": "Waluta",
+        "language": "Język",
+        "timezone": "Strefa czasowa"
+      }
+    },
+    "4": {
+      "title": "Utwórz konto administratora",
+      "inputs": {
+        "email": "Adres e-mail",
+        "username": "Nazwa użytkownika",
+        "password": "Hasło",
+        "confirm_password": "Potwierdź hasło"
+      }
+    },
+    "5": {
+      "title": "Zakończ",
+      "installing": {
+        "title": "Instalowanie...",
+        "description": "Proszę czekać, trwa instalowanie..."
+      },
+      "finish": {
+        "title": "Instalacja zakończona!",
+        "description": "Instalacja zakończona pomyślnie. Możesz w dowolnym momencie zmienić ustawienia.",
+        "button": "Zobacz pulpit nawigacyjny"
+      },
+      "installing_error": {
+        "title": "Błąd instalacji!",
+        "description": "Instalacja nie powiodła się. Proszę skontaktować się z nami w celu uzyskania dalszych informacji."
+      }
+    }
+  },
+  "search": "Szukaj...",
+  "help": "Potrzebujesz pomocy?",
+  "docs": "Dokumentacja",
+  "prev": "Poprzedni",
+  "next": "Następny",
+  "processing": "Przetwarzanie...",
+  "fill_fields": "Proszę wypełnić wszystkie pola.",
+  "password_mismatch": "Hasła nie pasują do siebie.",
+  "password_bad": "Nie możesz używać prostych haseł!",
+  "invalid_email": "Nieprawidłowy adres e-mail!",
+  "invalid_username": "Zła nazwa użytkownika!",
+  "username_length": "Nazwa użytkownika musi mieć od 3 do 16 znaków.",
+  "password_length": "Hasło musi mieć co najmniej 6 znaków.",
+  "username_taken": "Nazwa użytkownika jest już zajęta!",
+  "email_taken": "Adres e-mail jest już zajęty!",
+  "enable": "Włącz",
+  "disable": "Wyłącz",
+  "select_timezone": "Wybierz strefę czasową",
+  "select_language": "Wybierz język",
+  "select_currency": "Wybierz walutę"
+}

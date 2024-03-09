@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Benvenuti alla procedura guidata di installazione!",
+    "description": "Installazione facile e avanzata. Se riscontri difficoltà, non dimenticare di consultare la documentazione di installazione."
+  },
+  "steps": {
+    "1": {
+      "title": "Compatibilità",
+      "loading": "Verifica della compatibilità in corso...",
+      "active": "attivo",
+      "not_active": "non attivo"
+    },
+    "2": {
+      "title": "Impostazioni del database",
+      "database_connection_error": "Errore di connessione al database! Controlla le impostazioni del tuo database.",
+      "inputs": {
+        "host": "Host",
+        "port": "Porta",
+        "username": "Nome utente",
+        "password": "Password",
+        "database": "Nome database"
+      }
+    },
+    "3": {
+      "title": "Impostazioni generali",
+      "inputs": {
+        "server_name": "Nome del server",
+        "website_title": "Titolo del sito web",
+        "server_ip": "Indirizzo IP del server",
+        "server_version": "Versione del server",
+        "password_encryption": "Crittografia password",
+        "maintenance": "Manutenzione",
+        "currency": "Valuta",
+        "language": "Lingua",
+        "timezone": "Fuso orario"
+      }
+    },
+    "4": {
+      "title": "Crea un amministratore",
+      "inputs": {
+        "email": "Email",
+        "username": "Nome utente",
+        "password": "Password",
+        "confirm_password": "Conferma password"
+      }
+    },
+    "5": {
+      "title": "Fine",
+      "installing": {
+        "title": "Installazione in corso...",
+        "description": "Attendi, l'installazione è in corso..."
+      },
+      "finish": {
+        "title": "Installazione completata!",
+        "description": "Installazione completata con successo. Puoi modificare le impostazioni in qualsiasi momento.",
+        "button": "Vedi la dashboard"
+      },
+      "installing_error": {
+        "title": "Errore di installazione!",
+        "description": "Installazione non riuscita. Contattaci per maggiori informazioni."
+      }
+    }
+  },
+  "search": "Cerca...",
+  "help": "Hai bisogno di aiuto?",
+  "docs": "Documentazione",
+  "prev": "Indietro",
+  "next": "Avanti",
+  "processing": "Elaborazione...",
+  "fill_fields": "Per favore, completa tutti i campi.",
+  "password_mismatch": "Le password non corrispondono.",
+  "password_bad": "Non puoi usare password semplici!",
+  "invalid_email": "Indirizzo email non valido!",
+  "invalid_username": "Nome utente non valido!",
+  "username_length": "Il nome utente deve essere lungo da 3 a 16 caratteri.",
+  "password_length": "La password deve essere lunga almeno 6 caratteri.",
+  "username_taken": "Il nome utente è già stato preso!",
+  "email_taken": "L'email è già stata presa!",
+  "enable": "Abilita",
+  "disable": "Disabilita",
+  "select_timezone": "Seleziona il fuso orario",
+  "select_language": "Seleziona la lingua",
+  "select_currency": "Seleziona la valuta"
+}

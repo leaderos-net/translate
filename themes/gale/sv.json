@@ -1,11 +1,13 @@
 {
 	"Join the #1 Minecraft Server": "Gå med i den främsta Minecraft-servern",
 	"%server% is a free to play Minecraft server. Join others and be the best!": "%server% är en gratis Minecraft-server. Gå med och bli den bästa!",
+	"%server% Store": "%server%-butik",
 	"Welcome to the official %server% Store. This is the place for you to enhance your player experience. We offer rank passes, items and boosters.": "Välkommen till den officiella %server%-butiken. Det här är platsen där du kan förbättra din spelarupplevelse. Vi erbjuder rankpass, föremål och boosters.",
 	"Time to engage the game!": "Tiden att engagera spelet!",
 	"Double your Minecraft experience with %server%. Enjoy our professionally made games with your friends!": "Dubbla din Minecraft-upplevelse med %server%. Njut av våra professionellt gjorda spel med dina vänner!",
 	"%value% Registered Players": "%value% registrerade spelare",
 	"Click to Join!": "Klicka för att gå med!",
+	"Go to link": "Gå till länk",
 	"Leaderboards, statistics and the best players!": "Topplistor, statistik och de bästa spelarna!",
 	"View the Store for Products...": "Visa butiken för produkter...",
 	"%value% products in the store": "%value% produkter i butiken",
@@ -49,6 +51,8 @@
 	"Buy a product": "Köp en produkt",
 	"Last Registration": "Senaste registrering",
 	"Donated %total% in total this month.": "Donerade %total% totalt denna månad.",
-	"Meet our experienced and friendly staffs.": "Träffa våra erfarna och vänliga personaler.",
-	"You can find players who have been punished on our server.": "Du kan hitta spelare som har blivit straffade på vår server."
+	"Meet our experienced and friendly staff.": "Träffa våra erfarna och vänliga personaler.",
+	"You can find players who have been punished on our server.": "Du kan hitta spelare som har blivit straffade på vår server.",
+	"Summary": "Sammanfattning",
+	"%discount%% OFF!": "%discount%% RABATT!"
 }

@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Willkommen beim Einrichtungsassistenten!",
+    "description": "Einfache und fortgeschrittene Einrichtung. Wenn Sie Schwierigkeiten haben, vergessen Sie nicht, die Installationsdokumentation zu lesen."
+  },
+  "steps": {
+    "1": {
+      "title": "Kompatibilität",
+      "loading": "Kompatibilität wird geprüft...",
+      "active": "aktiv",
+      "not_active": "nicht aktiv"
+    },
+    "2": {
+      "title": "Datenbankeinstellungen",
+      "database_connection_error": "Datenbankverbindungsfehler! Bitte überprüfen Sie Ihre Datenbankeinstellungen.",
+      "inputs": {
+        "host": "Host",
+        "port": "Port",
+        "username": "Benutzername",
+        "password": "Passwort",
+        "database": "Datenbankname"
+      }
+    },
+    "3": {
+      "title": "Allgemeine Einstellungen",
+      "inputs": {
+        "server_name": "Servername",
+        "website_title": "Website-Titel",
+        "server_ip": "Server-IP",
+        "server_version": "Server-Version",
+        "password_encryption": "Passwortverschlüsselung",
+        "maintenance": "Wartung",
+        "currency": "Währung",
+        "language": "Sprache",
+        "timezone": "Zeitzone"
+      }
+    },
+    "4": {
+      "title": "Admin erstellen",
+      "inputs": {
+        "email": "E-Mail",
+        "username": "Benutzername",
+        "password": "Passwort",
+        "confirm_password": "Passwort bestätigen"
+      }
+    },
+    "5": {
+      "title": "Fertig",
+      "installing": {
+        "title": "Installieren...",
+        "description": "Bitte warten, die Installation läuft..."
+      },
+      "finish": {
+        "title": "Installation abgeschlossen!",
+        "description": "Installation erfolgreich abgeschlossen. Sie können die Einstellungen jederzeit ändern.",
+        "button": "Dashboard anzeigen"
+      },
+      "installing_error": {
+        "title": "Installationsfehler!",
+        "description": "Installation fehlgeschlagen. Bitte kontaktieren Sie uns für weitere Informationen."
+      }
+    }
+  },
+  "search": "Suche...",
+  "help": "Brauchen Sie Hilfe?",
+  "docs": "Dokumentation",
+  "prev": "Zurück",
+  "next": "Weiter",
+  "processing": "Bearbeitung...",
+  "fill_fields": "Bitte füllen Sie alle Felder aus.",
+  "password_mismatch": "Passwörter stimmen nicht überein.",
+  "password_bad": "Sie können keine einfachen Passwörter verwenden!",
+  "invalid_email": "Ungültige E-Mail-Adresse!",
+  "invalid_username": "Ungültiger Benutzername!",
+  "username_length": "Der Benutzername muss 3-16 Zeichen lang sein.",
+  "password_length": "Das Passwort muss mindestens 6 Zeichen lang sein.",
+  "username_taken": "Benutzername ist bereits vergeben!",
+  "email_taken": "E-Mail ist bereits vergeben!",
+  "enable": "Aktivieren",
+  "disable": "Deaktivieren",
+  "select_timezone": "Zeitzone auswählen",
+  "select_language": "Sprache auswählen",
+  "select_currency": "Währung auswählen"
+}

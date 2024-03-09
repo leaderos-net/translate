@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Kurulum ekranına hoş geldin!",
+    "description": "Bu araç sizi, web sitesi ve sunucu ayarlarınızı yapılandırmak için adım adım yönlendirecektir."
+  },
+  "steps": {
+    "1": {
+      "title": "Uyumluluk",
+      "loading": "Uyumluluk kontrol ediliyor...",
+      "active": "aktif",
+      "not_active": "bulunamadı"
+    },
+    "2": {
+      "title": "Veritabanı Ayarları",
+      "database_connection_error": "Veritabanı bağlantısı başarısız oldu. Lütfen bilgilerinizi kontrol edin.",
+      "inputs": {
+        "host": "Host",
+        "port": "Port",
+        "username": "Kullanıcı Adı",
+        "password": "Şifre",
+        "database": "Veritabanı Adı"
+      }
+    },
+    "3": {
+      "title": "Genel Ayarlar",
+      "inputs": {
+        "server_name": "Sunucu Adı",
+        "website_title": "Website Başlığı",
+        "server_ip": "Sunucu IP",
+        "server_version": "Sunucu Versiyonu",
+        "password_encryption": "Şifreleme Türü",
+        "maintenance": "Bakım Modu",
+        "currency": "Para Birimi",
+        "language": "Dil",
+        "timezone": "Zaman Dilimi"
+      }
+    },
+    "4": {
+      "title": "Yönetici Hesabı",
+      "inputs": {
+        "email": "Email",
+        "username": "Kullanıcı Adı",
+        "password": "Şifre",
+        "confirm_password": "Şifreyi Onayla"
+      }
+    },
+    "5": {
+      "title": "Tamamlandı",
+      "installing": {
+        "title": "Kuruluyor...",
+        "description": "Lütfen bekleyin. Bu işlem birkaç saniye sürebilir."
+      },
+      "finish": {
+        "title": "Kurulum Tamamlandı!",
+        "description": "Kurulum başarıyla tamamlandı. Şimdi yönetim paneline yönlendirileceksiniz.",
+        "button": "Yönetim Paneline Git"
+      },
+      "installing_error": {
+        "title": "Kurulum Başarısız!",
+        "description": "Kurulum sırasında bir hata oluştu. Lütfen daha sonra tekrar deneyin."
+      }
+    }
+  },
+  "search": "Ara...",
+  "help": "Yardım",
+  "docs": "Döküman",
+  "prev": "Önceki",
+  "next": "Sonraki",
+  "processing": "İşleniyor...",
+  "fill_fields": "Lütfen tüm alanları doldurun.",
+  "password_mismatch": "Şifreler uyuşmuyor.",
+  "password_bad": "Şifre en az 6 karakterden oluşmalıdır.",
+  "invalid_email": "Geçersiz email adresi.",
+  "invalid_username": "Kullanıcı adı en az 3 karakterden oluşmalıdır.",
+  "username_length": "Kullanıcı adı en az 3 karakterden oluşmalıdır.",
+  "password_length": "Şifre en az 6 karakterden oluşmalıdır.",
+  "username_taken": "Kullanıcı adı zaten alınmış.",
+  "email_taken": "Email adresi zaten alınmış.",
+  "enable": "Aktif",
+  "disable": "Pasif",
+  "select_timezone": "Zaman Dilimi seçin",
+  "select_language": "Dil seçin",
+  "select_currency": "Para Birimi seçin"
+}

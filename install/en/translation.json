@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Welcome to the setup wizard!",
+    "description": "Easy and advanced setup. If you have difficulties, do not forget to look at the installation documentation."
+  },
+  "steps": {
+    "1": {
+      "title": "Compatibility",
+      "loading": "Checking for compatibility...",
+      "active": "active",
+      "not_active": "not active"
+    },
+    "2": {
+      "title": "Database Settings",
+      "database_connection_error": "Database connection error! Please check your database settings.",
+      "inputs": {
+        "host": "Host",
+        "port": "Port",
+        "username": "Username",
+        "password": "Password",
+        "database": "Database Name"
+      }
+    },
+    "3": {
+      "title": "General Settings",
+      "inputs": {
+        "server_name": "Server Name",
+        "website_title": "Website Title",
+        "server_ip": "Server IP",
+        "server_version": "Server Version",
+        "password_encryption": "Password Encryption",
+        "maintenance": "Maintenance",
+        "currency": "Currency",
+        "language": "Language",
+        "timezone": "Timezone"
+      }
+    },
+    "4": {
+      "title": "Create Admin",
+      "inputs": {
+        "email": "Email",
+        "username": "Username",
+        "password": "Password",
+        "confirm_password": "Confirm Password"
+      }
+    },
+    "5": {
+      "title": "Finish",
+      "installing": {
+        "title": "Installing...",
+        "description": "Please wait, the installation is in progress..."
+      },
+      "finish": {
+        "title": "Installation is completed!",
+        "description": "Installation completed successfully. You can change the settings at any time.",
+        "button": "View Dashboard"
+      },
+      "installing_error": {
+        "title": "Installation Error!",
+        "description": "Installation failed. Please contact us for more information."
+      }
+    }
+  },
+  "search": "Search...",
+  "help": "Do you need help?",
+  "docs": "Docs",
+  "prev": "Previous",
+  "next": "Next",
+  "processing": "Processing...",
+  "fill_fields": "Please fill all fields.",
+  "password_mismatch": "Passwords do not match.",
+  "password_bad": "You cannot use simple passwords!",
+  "invalid_email": "Invalid email address!",
+  "invalid_username": "Invalid username!",
+  "username_length": "Username must be 3-16 characters long.",
+  "password_length": "Password must be at least 6 characters long.",
+  "username_taken": "Username is already taken!",
+  "email_taken": "Email is already taken!",
+  "enable": "Enable",
+  "disable": "Disable",
+  "select_timezone": "Select Timezone",
+  "select_language": "Select Language",
+  "select_currency": "Select Currency"
+}

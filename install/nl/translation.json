@@ -1,0 +1,84 @@
+{
+  "welcome": {
+    "title": "Welkom bij de installatiewizard!",
+    "description": "Eenvoudige en geavanceerde installatie. Als u problemen ondervindt, vergeet dan niet om de installatiedocumentatie te raadplegen."
+  },
+  "steps": {
+    "1": {
+      "title": "Compatibiliteit",
+      "loading": "Compatibiliteit controleren...",
+      "active": "actief",
+      "not_active": "niet actief"
+    },
+    "2": {
+      "title": "Database-instellingen",
+      "database_connection_error": "Databaseverbinding fout! Controleer uw database-instellingen.",
+      "inputs": {
+        "host": "Host",
+        "port": "Poort",
+        "username": "Gebruikersnaam",
+        "password": "Wachtwoord",
+        "database": "Database naam"
+      }
+    },
+    "3": {
+      "title": "Algemene instellingen",
+      "inputs": {
+        "server_name": "Servernaam",
+        "website_title": "Websitetitel",
+        "server_ip": "Server IP",
+        "server_version": "Serverversie",
+        "password_encryption": "Wachtwoordversleuteling",
+        "maintenance": "Onderhoud",
+        "currency": "Valuta",
+        "language": "Taal",
+        "timezone": "Tijdzone"
+      }
+    },
+    "4": {
+      "title": "Maak een beheerder aan",
+      "inputs": {
+        "email": "E-mail",
+        "username": "Gebruikersnaam",
+        "password": "Wachtwoord",
+        "confirm_password": "Bevestig wachtwoord"
+      }
+    },
+    "5": {
+      "title": "Voltooid",
+      "installing": {
+        "title": "Installeren...",
+        "description": "Even geduld, de installatie is bezig..."
+      },
+      "finish": {
+        "title": "Installatie voltooid!",
+        "description": "Installatie is succesvol voltooid. U kunt de instellingen op elk moment wijzigen.",
+        "button": "Bekijk dashboard"
+      },
+      "installing_error": {
+        "title": "Installatiefout!",
+        "description": "Installatie is mislukt. Neem contact met ons op voor meer informatie."
+      }
+    }
+  },
+  "search": "Zoeken...",
+  "help": "Heeft u hulp nodig?",
+  "docs": "Documentatie",
+  "prev": "Vorige",
+  "next": "Volgende",
+  "processing": "Verwerken...",
+  "fill_fields": "Vul alle velden in.",
+  "password_mismatch": "Wachtwoorden komen niet overeen.",
+  "password_bad": "U kunt geen eenvoudige wachtwoorden gebruiken!",
+  "invalid_email": "Ongeldig e-mailadres!",
+  "invalid_username": "Ongeldige gebruikersnaam!",
+  "username_length": "Gebruikersnaam moet tussen de 3 en 16 tekens lang zijn.",
+  "password_length": "Wachtwoord moet minimaal 6 tekens lang zijn.",
+  "username_taken": "Gebruikersnaam is al in gebruik!",
+  "email_taken": "E-mail is al in gebruik!",
+  "enable": "Inschakelen",
+  "disable": "Uitschakelen",
+  "select_timezone": "Selecteer tijdzone",
+  "select_language": "Selecteer taal",
+  "select_currency": "Selecteer valuta"
+}
