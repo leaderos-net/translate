@@ -1,7 +1,7 @@
 {
   "welcome": {
     "title": "Willkommen beim Einrichtungsassistenten!",
-    "description": "Einfache und fortgeschrittene Einrichtung. Wenn Sie Schwierigkeiten haben, vergessen Sie nicht, die Installationsdokumentation zu lesen."
+    "description": "Einfache und fortgeschrittene Einrichtung. Wenn du Schwierigkeiten hast, vergiss nicht, die Installationsdokumentation zu lesen."
   },
   "steps": {
     "1": {
@@ -12,7 +12,7 @@
     },
     "2": {
       "title": "Datenbankeinstellungen",
-      "database_connection_error": "Datenbankverbindungsfehler! Bitte überprüfen Sie Ihre Datenbankeinstellungen.",
+      "database_connection_error": "Datenbankverbindungsfehler! Bitte überprüfe deine Datenbankeinstellungen.",
       "inputs": {
         "host": "Host",
         "port": "Port",
@@ -52,24 +52,24 @@
       },
       "finish": {
         "title": "Installation abgeschlossen!",
-        "description": "Installation erfolgreich abgeschlossen. Sie können die Einstellungen jederzeit ändern.",
+        "description": "Installation erfolgreich abgeschlossen. Du kannst die Einstellungen jederzeit ändern.",
         "button": "Dashboard anzeigen"
       },
       "installing_error": {
         "title": "Installationsfehler!",
-        "description": "Installation fehlgeschlagen. Bitte kontaktieren Sie uns für weitere Informationen."
+        "description": "Installation fehlgeschlagen. Bitte kontaktiere uns für weitere Informationen."
       }
     }
   },
   "search": "Suche...",
-  "help": "Brauchen Sie Hilfe?",
+  "help": "Brauchst du Hilfe?",
   "docs": "Dokumentation",
   "prev": "Zurück",
   "next": "Weiter",
   "processing": "Bearbeitung...",
-  "fill_fields": "Bitte füllen Sie alle Felder aus.",
+  "fill_fields": "Bitte fülle alle Felder aus.",
   "password_mismatch": "Passwörter stimmen nicht überein.",
-  "password_bad": "Sie können keine einfachen Passwörter verwenden!",
+  "password_bad": "Du kannst kein einfaches Passwort verwenden!",
   "invalid_email": "Ungültige E-Mail-Adresse!",
   "invalid_username": "Ungültiger Benutzername!",
   "username_length": "Der Benutzername muss 3-16 Zeichen lang sein.",
