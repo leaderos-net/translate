@@ -539,5 +539,7 @@
 	"Upgrade": "अपग्रेड",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "<a href=\"/terms\" target=\"_blank\">नियम और शर्तें</a> से सहमत हूं",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "आप इस खेल को हर <strong>%duration% घंटे</strong> के लिए मुफ्त खेल सकते हैं।",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "आप इस खेल को <strong>%price% क्रेडिट</strong> के लिए खेल सकते हैं।"
+	"You can play this game for <strong>%price% credit(s)</strong>.": "आप इस खेल को <strong>%price% क्रेडिट</strong> के लिए खेल सकते हैं।",
+	"There are required products you do not own!": "आपके पास आवश्यक उत्पाद नहीं हैं!",
+	"You must purchase the required product before purchasing this product!": "इस उत्पाद को खरीदने से पहले आवश्यक उत्पाद खरीदना होगा!"
 }

@@ -540,5 +540,7 @@
 	"Upgrade": "Upgrade",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "Sunt de acord cu <a href=\"/terms\" target=\"_blank\">Termenii și Condițiile</a>",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "Poți juca acest joc gratuit la fiecare <strong>%duration% oră(e)</strong>.",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "Poți juca acest joc pentru <strong>%price% credit(e)</strong>."
+	"You can play this game for <strong>%price% credit(s)</strong>.": "Poți juca acest joc pentru <strong>%price% credit(e)</strong>.",
+	"There are required products you do not own!": "Există produse necesare pe care nu le deții!",
+	"You must purchase the required product before purchasing this product!": "Trebuie să cumperi produsul necesar înainte de a cumpăra acest produs!"
 }

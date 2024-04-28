@@ -540,5 +540,7 @@
 	"Upgrade": "升级",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "我同意<a href=\"/terms\" target=\"_blank\">条款和条件</a>",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "您可以每 <strong>%duration% 小时</strong>免费玩一次这个游戏。",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "您可以用 <strong>%price% 积分</strong>玩这个游戏。"
+	"You can play this game for <strong>%price% credit(s)</strong>.": "您可以用 <strong>%price% 积分</strong>玩这个游戏。",
+	"There are required products you do not own!": "您没有所需的产品！",
+	"You must purchase the required product before purchasing this product!": "您必须在购买此产品之前购买所需的产品！"
 }

@@ -542,5 +542,7 @@
     "Upgrade": "Zvýšení úrovně",
     "I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "Souhlasím s <a href=\"/terms\" target=\"_blank\">Podmínkami</a>",
     "You can play this game for free every <strong>%duration% hour(s)</strong>.": "Tuto hru můžete hrát zdarma každou <strong>%duration% hodinu(y)</strong>.",
-    "You can play this game for <strong>%price% credit(s)</strong>.": "Tuto hru můžete hrát za <strong>%price% kredit(y)</strong>."
+    "You can play this game for <strong>%price% credit(s)</strong>.": "Tuto hru můžete hrát za <strong>%price% kredit(y)</strong>.",
+    "There are required products you do not own!": "Nemáte požadované produkty!",
+    "You must purchase the required product before purchasing this product!": "Před zakoupením tohoto produktu musíte zakoupit požadovaný produkt!"
 }

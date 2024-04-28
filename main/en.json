@@ -540,5 +540,7 @@
 	"Upgrade": "Upgrade",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "You can play this game for free every <strong>%duration% hour(s)</strong>.",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "You can play this game for <strong>%price% credit(s)</strong>."
+	"You can play this game for <strong>%price% credit(s)</strong>.": "You can play this game for <strong>%price% credit(s)</strong>.",
+	"There are required products you do not own!": "There are required products you do not own!",
+	"You must purchase the required product before purchasing this product!": "You must purchase the required product before purchasing this product!"
 }

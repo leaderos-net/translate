@@ -540,5 +540,7 @@
 	"Upgrade": "Nâng cấp",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "Tôi đồng ý với <a href=\"/terms\" target=\"_blank\">Điều khoản & Điều kiện</a>",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "Bạn có thể chơi game này miễn phí mỗi <strong>%duration% giờ</strong>.",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "Bạn có thể chơi game này với <strong>%price% xu</strong>."
+	"You can play this game for <strong>%price% credit(s)</strong>.": "Bạn có thể chơi game này với <strong>%price% xu</strong>.",
+	"There are required products you do not own!": "Có sản phẩm bắt buộc bạn không sở hữu!",
+	"You must purchase the required product before purchasing this product!": "Bạn phải mua sản phẩm bắt buộc trước khi mua sản phẩm này!"
 }

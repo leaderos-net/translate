@@ -540,5 +540,7 @@
 	"Upgrade": "アップグレード",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "<a href=\"/terms\" target=\"_blank\">利用規約</a>に同意します",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "このゲームは<strong>%duration%時間ごとに無料で</strong>プレイできます。",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "このゲームは<strong>%price%クレジットで</strong>プレイできます。"
+	"You can play this game for <strong>%price% credit(s)</strong>.": "このゲームは<strong>%price%クレジットで</strong>プレイできます。",
+	"There are required products you do not own!": "所有していない必要な製品があります！",
+	"You must purchase the required product before purchasing this product!": "この製品を購入する前に必要な製品を購入する必要があります！"
 }

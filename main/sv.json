@@ -540,5 +540,7 @@
 	"Upgrade": "Uppgradera",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "Jag godkänner <a href=\"/terms\" target=\"_blank\">Villkor &amp; Bestämmelser</a>",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "Du kan spela detta spel gratis varje <strong>%duration% timme(r)</strong>.",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "Du kan spela detta spel för <strong>%price% kredit(er)</strong>."
+	"You can play this game for <strong>%price% credit(s)</strong>.": "Du kan spela detta spel för <strong>%price% kredit(er)</strong>.",
+	"There are required products you do not own!": "Det finns nödvändiga produkter du inte äger!",
+	"You must purchase the required product before purchasing this product!": "Du måste köpa den nödvändiga produkten innan du köper denna produkt!"
 }

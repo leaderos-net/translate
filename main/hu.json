@@ -538,5 +538,7 @@
 	"Upgrade": "Frissítés",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "Elfogadom a <a href=\"/terms\" target=\"_blank\">Felhasználási feltételeket</a>",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "Ingyenesen játszhatsz ezzel a játékkal minden <strong>%duration% órában</strong>.",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "Ezt a játékot <strong>%price% kreditért</strong> játszhatja."
+	"You can play this game for <strong>%price% credit(s)</strong>.": "Ezt a játékot <strong>%price% kreditért</strong> játszhatja.",
+	"There are required products you do not own!": "Vannak olyan kötelező termékek, amelyek nincsenek meg!",
+	"You must purchase the required product before purchasing this product!": "Meg kell vásárolnia a kötelező terméket, mielőtt megvásárolná ezt a terméket!"
 }

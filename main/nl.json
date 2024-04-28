@@ -540,5 +540,7 @@
 	"Upgrade": "Upgrade",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "Ik ga akkoord met de <a href=\"/terms\" target=\"_blank\">Algemene voorwaarden</a>",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "Je kunt dit spel elke <strong>%duration% uur</strong> gratis spelen.",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "Je kunt dit spel spelen voor <strong>%price% credit(s)</strong>."
+	"You can play this game for <strong>%price% credit(s)</strong>.": "Je kunt dit spel spelen voor <strong>%price% credit(s)</strong>.",
+	"There are required products you do not own!": "Er zijn vereiste producten die je niet bezit!",
+	"You must purchase the required product before purchasing this product!": "Je moet het vereiste product kopen voordat je dit product koopt!"
 }

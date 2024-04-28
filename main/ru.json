@@ -540,5 +540,7 @@
 	"Upgrade": "Обновить",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "Я согласен с <a href=\"/terms\" target=\"_blank\">Условиями и положениями</a>",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "Вы можете играть в эту игру бесплатно каждый <strong>%duration% час(ов)</strong>.",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "Вы можете играть в эту игру за <strong>%price% кредит(ы)</strong>."
+	"You can play this game for <strong>%price% credit(s)</strong>.": "Вы можете играть в эту игру за <strong>%price% кредит(ы)</strong>.",
+	"There are required products you do not own!": "Есть необходимые продукты, которые у вас нет!",
+	"You must purchase the required product before purchasing this product!": "Вы должны приобрести необходимый продукт перед покупкой этого продукта!"
 }

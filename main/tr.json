@@ -540,5 +540,7 @@
 	"Upgrade": "Yükselt",
 	"I agree to the <a href=\"/terms\" target=\"_blank\">Terms & Conditions</a>": "<a href=\"/terms\" target=\"_blank\">Kullanım Şartlarını</a> kabul ediyorum.",
 	"You can play this game for free every <strong>%duration% hour(s)</strong>.": "Bu oyunu her <strong>%duration% saatte bir</strong> ücretsiz oynayabilirsiniz.",
-	"You can play this game for <strong>%price% credit(s)</strong>.": "Bu oyunu <strong>%price% kredi</strong> karşılığında oynayabilirsiniz."
+	"You can play this game for <strong>%price% credit(s)</strong>.": "Bu oyunu <strong>%price% kredi</strong> karşılığında oynayabilirsiniz.",
+	"There are required products you do not own!": "Sahip olmadığınız gerekli ürünler var!",
+	"You must purchase the required product before purchasing this product!": "Bu ürünü satın almadan önce gerekli ürünü satın almalısınız!"
 }
